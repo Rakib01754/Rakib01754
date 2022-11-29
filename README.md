@@ -1,6 +1,6 @@
 
 
-<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=rakib01754&show_icons=true&locale=en&layout=compact](https://drive.google.com/file/d/1vQHtiiSY2e05Pou9_5lO2JFaRB6Htb9n/view?usp=sharing)" alt="rakib01754" />
+(https://media-exp1.licdn.com/dms/image/C5616AQFEjP85Ngpj5g/profile-displaybackgroundimage-shrink_350_1400/0/1668882524774?e=1675296000&v=beta&t=aLkPGJdqFGp-hC7IXNR48N8RRNqgIxNe_3iRaiQrwto)
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
