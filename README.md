@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Capture Point](https://instant-camera-ff73c.web.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Material UI**
 
-- 👨‍💻 All of my projects are available at [https://rakibs-world.netlify.app/](https://rakibs-world.netlify.app/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Rakib01754)
 
 - 💬 Ask me about **Front End Web Development**
 
