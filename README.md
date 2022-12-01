@@ -1,6 +1,8 @@
 ![Md Rakibul Hasan](https://media-exp1.licdn.com/dms/image/C5616AQFEjP85Ngpj5g/profile-displaybackgroundimage-shrink_350_1400/0/1668882524774?e=1675296000&v=beta&t=aLkPGJdqFGp-hC7IXNR48N8RRNqgIxNe_3iRaiQrwto)
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+
+I am a person who loves to learn and explore new technologies. Web development is my passion. I love to code with consistency. I want to gather knowledge of new technologies always. I have already completed a number of projects based on my skills which are available on my GitHub repositories. You can check my repo for a better idea about my coding. Thank you.
 
 - 🔭 I’m currently working on [Capture Point](https://instant-camera-ff73c.web.app/)
 
@@ -8,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Rakib01754)
 
-- 💬 Ask me about **Front End Web Development**
+- 💬 Ask me about **MERN Stack Web Development**
 
 - 📫 How to reach me **rakibul.hasan9352@gmail.com**
 
