@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![A passionate MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQGZrAfLPbQbtQ/profile-displaybackgroundimage-shrink_350_1400/0/1670558690774?e=1676505600&v=beta&t=BoWgYt9-_Yqrg_BBWWoR3lT68RFFnP4SnbbXTh233wg)
+
+I am a curious, passionate MERN Stack developer. I am learning MERN stack web development for around one year. I can make a complete project with react, node, and MongoDB. Already I have completed a number of projects based on my skills. I love to code with consistency and I really enjoy it. Finally, I want to be an Expert Developer in this field.
 
 - 🔭 I’m currently working on [Capture Point](https://instant-camera-ff73c.web.app/)
 
