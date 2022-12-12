@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Material UI, Redux, React Native**
 
-- 👨‍💻 All of my projects are available at [https://rakibs-world.netlify.app/](https://rakibs-world.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://rakibs-world.netlify.app/](Github)](https://github.com/Rakib01754/Rakib01754/)
 
 - 💬 Ask me about **MERN Stack Development**
 
